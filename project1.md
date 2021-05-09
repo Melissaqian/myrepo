@@ -791,7 +791,7 @@ From the above scatterplot, we can see that Africa and Asia region tend
 to have low meat consumption and low GDP. Europe, North America,
 Austrlia and New Zealand seem to have high meat consumption and GDP per
 capita. And there is a kind of linear relationship between the two
-variables.
+variables. The higher the GDP per capita, the more meat consumption the country has.
 
 ``` r
 # Making a boxplot that shows the family extension performance according to happiness score rank
